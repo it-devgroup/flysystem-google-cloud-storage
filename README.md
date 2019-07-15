@@ -19,7 +19,7 @@ Want to get started quickly? Check out some of these integrations:
 ```php
 use Google\Cloud\Storage\StorageClient;
 use League\Flysystem\Filesystem;
-use Superbalist\Flysystem\GoogleStorage\GoogleStorageAdapter;
+use ItDevgroup\Flysystem\GoogleStorage\GoogleStorageAdapter;
 
 /**
  * The credentials will be auto-loaded by the Google Cloud Client.
