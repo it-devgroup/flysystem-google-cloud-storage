@@ -1,6 +1,6 @@
 # Changelog
 
-## 7.2.1 - 2019-07-15
+## 7.2.2 - 2019-07-15
 
 * noAcl config value + it-devgroup namespaces fixes
 
