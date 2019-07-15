@@ -1,11 +1,11 @@
 {
-	"name": "superbalist/flysystem-google-storage",
+	"name": "it-devgroup/flysystem-google-storage",
 	"description": "Flysystem adapter for Google Cloud Storage",
 	"license": "MIT",
 	"authors": [
 		{
-			"name": "Superbalist.com a division of Takealot Online (Pty) Ltd",
-			"email": "info@superbalist.com"
+			"name": "Anatoly Bobrishov, developer, it-devgroup",
+			"email": "anatoly.bobrishov@it-devgroup.com"
 		}
 	],
 	"require": {
