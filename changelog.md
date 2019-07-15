@@ -1,5 +1,9 @@
 # Changelog
 
+## 7.2.2 - 2019-07-15
+
+* noAcl config value + it-devgroup namespaces fixes
+
 ## 7.2.1 - 2019-02-21
 
 * Fix bug where recursive delete would not delete directories (Issue #96)
