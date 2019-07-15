@@ -19,7 +19,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Superbalist\\Flysystem\\GoogleStorage\\": "src/"
+			"ItDevgroup\\Flysystem\\GoogleStorage\\": "src/"
 		}
 	},
 	"config": {

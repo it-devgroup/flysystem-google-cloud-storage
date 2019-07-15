@@ -1,6 +1,6 @@
 <?php
 
-namespace Superbalist\Flysystem\GoogleStorage;
+namespace ItDevgroup\Flysystem\GoogleStorage;
 
 use Google\Cloud\Core\Exception\NotFoundException;
 use Google\Cloud\Storage\Acl;
